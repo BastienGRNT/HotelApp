@@ -1678,11 +1678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\greno\\RiderProjects\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\greno\\Documents\\HotelApp\\WebAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\greno\\RiderProjects\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\greno\\Documents\\HotelApp\\WebAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\greno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\greno\\RiderProjects\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\greno\\Documents\\HotelApp\\WebAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [

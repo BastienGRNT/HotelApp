@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WiHU8D7W/W4=",
+  "dgSpecHash": "o4Lhg8/ogVE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\greno\\RiderProjects\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\greno\\Documents\\HotelApp\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\greno\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\greno\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
