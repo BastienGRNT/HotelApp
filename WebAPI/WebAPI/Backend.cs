@@ -68,7 +68,7 @@ public class Backend
     
     public class AjouterData
     {
-        public void AjouterChambre(Chambres chambres)
+        public string AjouterChambre(Chambres chambres)
     {
         using (var connection = Sql.ConnectSql())
         {
@@ -83,6 +83,8 @@ public class Backend
                 command.ExecuteNonQuery();
             }
             Console.WriteLine($"Chambre Numéro: {chambres.numero_chambre} et type: {chambres.type_chambre} ajoutée avec succès !!!");
+            
+            return "Chambre ajoutée avec succès !";
         }
     }
     
